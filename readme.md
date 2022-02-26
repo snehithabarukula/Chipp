@@ -11,9 +11,9 @@ The suggested method analyzes and levels up the major contribution in building a
 # Technologies Used 
 The model is made of :
   - The Web Application
-  - The Physical Subsystem
-Front-end: Chipp Recycle is smart trash can that acts as an interface between user and the waste management. The technology usually refers to the programming languages that are used to develop this platform. Chipp Recyle is website built using html,css,javascript and bootstrap.
-Back-end : Database is the heart of the technology platform, where all of the main data related to the website are stored. The Primary database will collect the details from the user’s and it's responsible for the data that are shown on UI (front-end). We use Python Postgre SQL as database software.
+  - The Physical Subsystem - built using Arduino,Sensors and C++ language.
+  - Front-end: Chipp Recycle is smart trash can that acts as an interface between user and the waste management. The technology usually refers to the programming languages that are used to develop this platform. Chipp Recyle is website built using html,css,javascript and bootstrap.
+  - Back-end : Database is the heart of the technology platform, where all of the main data related to the website are stored. The Primary database will collect the details from the user’s and it's responsible for the data that are shown on UI (front-end). We use Python Postgre SQL as database software.
 
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -37,3 +37,4 @@ Back-end : Database is the heart of the technology platform, where all of the ma
 [Postgre SQL](https://www.postgresql.org/download/)
        
 ## Project Flow 
+![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
