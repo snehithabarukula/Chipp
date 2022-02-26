@@ -7,10 +7,10 @@
 The suggested method analyzes and levels up the major contribution in building a sustainable solution for global warming, air, water and land pollution mortality, and energy security. Trash cans are containers used all around the world to collect domestic garbage. We discard a variety of waste items in our everyday lives, sewage garbage, residential waste, and so on. The cleanliness in the public areas has been a variety of demand notably following the covid pandemic. Moreover,  public garbage cans are not checked or kept adequately. The proposed system is an innovative waste management solution for Smart Cities. IoT components like sensors, detectors, and actuators are embedded into the physical subsystem. The system is integrated by utilizing Mini Display, smart barcode scanning camera and BIN OS with the assistance of Arduino and raspberry pi to iterate with the internet database. The web application operates as a cloud interface facilitating communication between the smartbin network and the client- user network. Reward points operate as the motivational factor for the users and the exchange rate and they're standardized depending on the agreement with the client firms. The product appears to be an efficient option for huge firms manufacturing food and drinks with significant carbon footprint and substantial volume of plastic waste. The product, its services and network may lessen the effect of these enterprises on the environment and can exhibit a viable business model.
 
 # Table of Contents
-1) Technologies Used
-2) System Requirements
-3) Set-up
-4) Project Flow 
+![Technologies Used](Technologies-Used)
+![System Requirements](System-Requirements)
+![Set Up](Set-up)
+![Project Flow](Project-Flow)
 
 # Technologies Used 
 The model is made of :
