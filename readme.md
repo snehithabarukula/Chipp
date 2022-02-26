@@ -1,3 +1,5 @@
+## Hi from Team Chipp <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 <p align="center">
   <img src="demo.gif" width="350" height ="350">
 </p>
@@ -39,5 +41,5 @@ The model is made of :
 [Python](https://www.python.org/downloads/) </br>
 [Postgre SQL](https://www.postgresql.org/download/)
        
-## Project Flow 
+# Project Flow 
 ![Flowchart](Flowdiagram.png)
