@@ -29,15 +29,14 @@ The model is made of :
 
 # System Requirements
 
-- FOR WINDOWS- Windows 7 version OS, 800MHz Intel Pentium III or equivalent processor, 512MB memory and an additional 250 MB of free disk space.
-- FOR UBUNTU- 9.10 version, 800MHz Intel Pentium III or equivalent processor, 512 MB memory and an additional 150 MB of free disk space.
-- FOR MAC OS- 10.7 Intel version, Dual-Core Intel processor, 512 memory and additional 150 MB of free disk space.
+- FOR WINDOWS ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) - Windows 7 version OS, 800MHz Intel Pentium III or equivalent processor, 512MB memory and an additional 250 MB of free disk space.
+- FOR UBUNTU ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) - 9.10 version, 800MHz Intel Pentium III or equivalent processor, 512 MB memory and an additional 150 MB of free disk space.
+- FOR MAC OS ![macos](![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)) - 10.7 Intel version, Dual-Core Intel processor, 512 memory and additional 150 MB of free disk space.
 - Latest version of python. Python 2.7 cannot be used with the current releases of Django (The Django 1.11.x series is the last to support Python 2.7).
 
 # Set Up
 
-## Installing Python 
-[Python](https://www.python.org/downloads/)
+[Python](https://www.python.org/downloads/) </br>
 [Postgre SQL](https://www.postgresql.org/download/)
        
 ## Project Flow 
