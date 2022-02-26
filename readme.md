@@ -1,5 +1,6 @@
-
-![gif](demo.gif)
+<p align="center">
+  <img src="demo.gif" width="50" height ="50">
+</p>
 
 # Introduction 
 
