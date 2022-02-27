@@ -43,3 +43,6 @@ The model is made of :
        
 # Project Flow 
 ![Flowchart](Flowdiagram.png)
+
+# Declaration Of Previous Work
+  As of earlier this hackathon, we had a brainstorming of ideas and thesis of the project can work. We made a circuit diagram but it wasn't working fine, Please find our previous work of the circuit in the image below. Further progress of the project for this hackverse 3.0 we made the complete working model of the circuit and the webpage.
